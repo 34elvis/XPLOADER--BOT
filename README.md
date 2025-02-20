@@ -24,9 +24,9 @@
 
 <h3>XPLOADER STATS</h3>
 
-<p align="center">
-<a href="https://github.com/Dark-Xploit/XPLOADER--BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Dark-Xploit/XPLOADER--BOT?color=orange&style=flat-square"></a>
-<a href="https://github.com/Dark-Xploit/XPLOADER--BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dark-Xploit/XPLOADER--BOT?color=orange&style=flat-square"></a>
+<p align="forward">
+<a href="https://github.com/http-Xploit/XPLOADER--BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Dark-Xploit/XPLOADER--BOT?color=orange&style=flat-square"></a>
+<a href="https://github.com/Dark-Xploit/XPLOADER--BOT/network/members"><img title="Elvis" src="https://img.shields.io/github/forks/Dark-Xploit/XPLOADER--BOT?color=orange&style=flat-square"></a>
 <a href="https://github.com/Dark-Xploit/XPLOADER--BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dark-Xploit/XPLOADER--BOT?label=Watchers&color=orange&style=flat-square"></a>
 <a href="https://github.com/Dark-Xploit/XPLOADER--BOT"><img title="Open Source" src="https://img.shields.io/badge/Author-Tylor-orange?v=103"></a>
 <a href="https://github.com/Dark-Xploit/XPLOADER--BOT/"><img title="Size" src="https://img.shields.io/github/repo-size/Dark-Xploit/XPLOADER--BOT?style=flat-square&color=orange"></a>
@@ -41,7 +41,7 @@
 1. Fork and star this repo first
     <br>
     <p align="center">
-<a href='https://github.com/Dark-Xploit/XPLOADER--BOT/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=orange&color=darkgreen'/></a>
+<a href='https://github.com/Dark-Xploit/XPLOADER--BOT/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=red&labelColor=orange&color=darkgreen'/></a>
 
 2. GET SESSION
     <br>
